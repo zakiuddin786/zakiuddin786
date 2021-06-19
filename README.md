@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Designing of scalable architecture
+
 <!--
 **zakiuddin786/zakiuddin786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
