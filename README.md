@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaki</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h3 align="center">A techie, geeky nerd who loves building things and explore towards making things better. Currently, I'm getting down to the nitty-gritty things of scaling up web applications so that they can be used and help millions of people. My major works include: Implementing my knowledge of Synchronous & Asynchronous concepts in practice and figured out how they make a major difference in improving the performance of the application, Modularizing the old codebase, and updating it to follow modern development standards reducing operating costs and improving functionality. I've hands-on experience using cloud services provided by AWS like SES, SQS, SNS, EBS, EC2 and constantly looking on exploring the other services and utilize them to their best extent.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakiuddin786&label=Profile%20views&color=0e75b6&style=flat" alt="zakiuddin786" /> </p>
 
